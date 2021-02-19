@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<p align="center">I love new technologies and I always try to be updated with the current technologies in the programming market. I love doing small projects to train my learning. I like to share knowledge with the community. I am proactive, I have good communication, ability to work in a team and my learning is super fast!</p>
 
 - 🔭 I’m currently working on [loja-web](https://github.com/rafinhaa/loja-web)
 
