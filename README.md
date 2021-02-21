@@ -7,6 +7,25 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rafinhaa](https://github.com/rafinhaa)
 
+
+<details>
+  <summary>📝 About Me</summary>
+  <h3 align="left">Formation</h3>
+    <p>📚 Complete high school</p>
+    <p>🎓 University education</p>
+    <div>      
+      <ul>        
+        <ul>
+          <li><p>Graduated in systems analysis and development</p></li>
+          <li><p>UNICSUL - Universidade Cruzeiro do Sul</p></li>
+          <li><p>Completed in the second half of 2014</p></li>
+        </ul>
+      </ul>
+    </div>
+  <h3 align="left">Complementary Training</h3>
+  <p>Several courses in the development area in the main schools in Brazil with a focus on PHP, Java, Javascript, MySQL, C #, Python and Programming logic</p>  
+</details>
+
 <h3 align="left">Hey, contact me!</h3>
 <a href="https://www.linkedin.com/in/rafinhaa/">
   <img alt="Rafinhaa LinkedIn" width="32" height="32" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" />
@@ -39,25 +58,6 @@
   <img src="https://img.icons8.com/plasticine/48/000000/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>  
 </div>
-
-<details>
-  <summary>📝 About Me</summary>
-  <h3 align="left">Formation</h3>
-    <p>📚 Complete high school</p>
-    <p>🎓 University education</p>
-    <div>      
-      <ul>        
-        <ul>
-          <li><p>Graduated in systems analysis and development</p></li>
-          <li><p>UNICSUL - Universidade Cruzeiro do Sul</p></li>
-          <li><p>Completed in the second half of 2014</p></li>
-        </ul>
-      </ul>
-    </div>
-  <h3 align="left">Complementary Training</h3>
-  <p>Several courses in the development area in the main schools in Brazil with a focus on PHP, Java, Javascript, MySQL, C #, Python and Programming logic</p>  
-</details>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafinhaa&show_icons=true&layout=compact&locale=en&theme=dark" alt="rafinhaa" />  
 <p align="center">
