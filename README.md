@@ -42,17 +42,20 @@
 
 <details>
   <summary>📝 About Me</summary>
-  <h5 align="left">Formation</h5>
+  <h3 align="left">Formation</h3>
     <p>📚 Complete high school</p>
-    <div>
-      <p>🎓 University education</p>
-           <p>Graduated in systems analysis and development</p>
-           <p>UNICSUL - Universidade Cruzeiro do Sul</p>
-           <p>Completed in the second half of 2014</p>
-  </div>
-  <h5 align="left">Complementary Training</h5>
-  <p>Several courses in the development area in the main schools in Brazil with a focus on PHP, Java, Javascript, MySQL, C #, Python and Programming logic</p>
-  
+    <p>🎓 University education</p>
+    <div>      
+      <ul>        
+        <ul>
+          <li><p>Graduated in systems analysis and development</p></li>
+          <li><p>UNICSUL - Universidade Cruzeiro do Sul</p></li>
+          <li><p>Completed in the second half of 2014</p></li>
+        </ul>
+      </ul>
+    </div>
+  <h3 align="left">Complementary Training</h3>
+  <p>Several courses in the development area in the main schools in Brazil with a focus on PHP, Java, Javascript, MySQL, C #, Python and Programming logic</p>  
 </details>
 
 <p align="center">
