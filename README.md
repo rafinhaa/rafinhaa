@@ -28,36 +28,35 @@
 
 <h3 align="left">Hey, contact me!</h3>
 <a href="https://www.linkedin.com/in/rafinhaa/">
-  <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="Rafinhaa Linkedin" width="32" height="32"/>
+  <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="Rafinhaa Linkedin" width="48" height="48"/>
 </a>
 
 <h3 align="left">Development Skills</h3>
 <h5 align="left">Languages</h5>
 <div>
-  <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="32" height="32"/>
-  <img src="https://cdn.svgporn.com/logos/php.svg" alt="PHP" width="32" height="32"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" width="32" height="32"/>
-  <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="NodeJS" width="32" height="32"/>
-  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="32" height="32"/>
+  <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="48" height="48"/>
+  <img src="https://cdn.svgporn.com/logos/php.svg" alt="PHP" width="48" height="48"/>
+  <img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C#" width="48" height="48"/>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" width="48" height="48"/>
+  <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="NodeJS" width="48" height="48"/>
+  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="48" height="48"/>
 </div>
 
 <h5 align="left">Markup Language</h5>
 <div>
-  <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="32" height="32"/>
-  <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="32" height="32"/>
+  <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="48" height="48"/>
+  <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="48" height="48"/>
 </div>
 <h5 align="left">Database</h5>
 <div>
-  <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="32" height="32"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreeSQL" width="32" height="32"/>
-  <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB" width="32" height="32"/>
+  <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="48" height="48"/>
+  <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreeSQL" width="48" height="48"/>
+  <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB" width="48" height="48"/>
 </div>
 <h5 align="left">Helpers</h5>
 <div>
-  <img src="https://cdn.svgporn.com/logos/github.svg" alt="GitHub" width="32" height="32"/>
-  <img src="https://cdn.svgporn.com/logos/git.svg" alt="Git" width="32" height="32"/>
+  <img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="GitHub" width="48" height="48"/>
+  <img src="https://cdn.svgporn.com/logos/git.svg" alt="Git" width="48" height="48"/>
 </div>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafinhaa&show_icons=true&layout=compact&locale=en&theme=dark" alt="rafinhaa" />  
