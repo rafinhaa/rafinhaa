@@ -28,35 +28,36 @@
 
 <h3 align="left">Hey, contact me!</h3>
 <a href="https://www.linkedin.com/in/rafinhaa/">
-  <img alt="Rafinhaa LinkedIn" width="32" height="32" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" />
+  <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="Rafinhaa Linkedin" width="32" height="32"/>
 </a>
 
 <h3 align="left">Development Skills</h3>
 <h5 align="left">Languages</h5>
 <div>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+  <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="32" height="32"/>
+  <img src="https://cdn.svgporn.com/logos/php.svg" alt="PHP" width="32" height="32"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/officel/48/000000/react.png"/>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" width="32" height="32"/>
+  <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="NodeJS" width="32" height="32"/>
+  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="32" height="32"/>
 </div>
 
 <h5 align="left">Markup Language</h5>
 <div>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css.png"/>
+  <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="32" height="32"/>
+  <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="32" height="32"/>
 </div>
 <h5 align="left">Database</h5>
 <div>
-  <img src="https://img.icons8.com/officel/48/000000/mysql.png"/>
+  <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="32" height="32"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreeSQL" width="32" height="32"/>
+  <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB" width="32" height="32"/>
 </div>
 <h5 align="left">Helpers</h5>
 <div>
-  <img src="https://img.icons8.com/plasticine/48/000000/github.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>  
+  <img src="https://cdn.svgporn.com/logos/github.svg" alt="GitHub" width="32" height="32"/>
+  <img src="https://cdn.svgporn.com/logos/git.svg" alt="Git" width="32" height="32"/>
 </div>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafinhaa&show_icons=true&layout=compact&locale=en&theme=dark" alt="rafinhaa" />  
