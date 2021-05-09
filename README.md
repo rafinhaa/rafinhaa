@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <p align="center">I love new technologies and I always try to be updated with the current technologies in the programming market. I love doing small projects to train my learning. I like to share knowledge with the community. I am proactive, I have good communication, ability to work in a team and my learning is super fast!</p>
 
-- 🔭 I’m currently working on [loja-web](https://github.com/rafinhaa/loja-web) and [ControlMEI](https://github.com/rafinhaa/ControlMEI)
+- 🔭 I’m currently working on [SimpleBlog](https://github.com/rafinhaa/simple-blog) and [ControlMEI](https://github.com/rafinhaa/ControlMEI)
 
 - 🌱 I’m currently learning **frameworks**
 
