@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <p align="center">I love new technologies and I always try to be updated with the current technologies in the programming market. I love doing small projects to train my learning. I like to share knowledge with the community. I am proactive, I have good communication, ability to work in a team and my learning is super fast!</p>
 
-- 🔭 I’m currently working on [cdr-asterisk](https://github.com/rafinhaa/cdr-asterisk)
+- 🔭 I am currently working on developing my hard skills
 
-- 🌱 I’m currently learning **frameworks**
+- 🌱 I’m currently learning **back-end** with **nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rafinhaa](https://github.com/rafinhaa)
 
@@ -34,12 +34,14 @@
 <h3 align="left">Development Skills</h3>
 <h5 align="left">Languages</h5>
 <div>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" width="48" height="48"/>
+  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="Typescript" width="48" height="48"/>
+  <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="NodeJS" width="48" height="48"/>
+  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="48" height="48"/>
   <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="48" height="48"/>
   <img src="https://cdn.svgporn.com/logos/php.svg" alt="PHP" width="48" height="48"/>
   <img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C#" width="48" height="48"/>
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" width="48" height="48"/>
-  <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="NodeJS" width="48" height="48"/>
-  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="48" height="48"/>
+  
 </div>
 
 <h5 align="left">Markup Language</h5>
