@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<p align="center">I love new technologies and I always try to be updated with the current technologies in the programming market. I love doing small projects to train my learning. I like to share knowledge with the community. I am proactive, I have good communication, ability to work in a team and my learning is super fast!</p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rafinhaa&label=Profile%20views&color=0e75b6&style=flat" alt="rafinhaa" />
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/rafinhaa">
 
-- 🔭 I am currently working on developing my hard skills
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote="I+love+new+technologies+and+I+always+try+to+be+updated+with+the+current+technologies+in+the+programming+market.+I+love+doing+small+projects+to+train+my+learning.+I+like+to+share+knowledge+with+the+community.+I+am+proactive,+I+have+good+communication,+ability+to+work+in+a+team+and+my+learning+is+super+fast!")](https://github.com/piyushsuthar/github-readme-quotes)
 
-- 🌱 I’m currently learning **back-end** with **nodejs**
+</div>
+
+<img align="right" style="margin-bottom: 20px" alt="coding" width="400" src="images/people.png">
+
+- 🔭 I am currently working on developing my **hard skills**
+
+- 🌱 I’m currently learning the **JavaScript stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rafinhaa](https://github.com/rafinhaa)
-
 
 <details>
   <summary>📝 About Me</summary>
@@ -23,7 +30,7 @@
       </ul>
     </div>
   <h3 align="left">Complementary Training</h3>
-  <p>Several courses in the development area in the main schools in Brazil with a focus on PHP, Java, Javascript, MySQL, C #, Python and Programming logic</p>  
+  <p>Several courses in the development area in the main schools in Brazil with a focus on Javascript, Typescript, ReactJS, React Native, NodeJS, Functional Programming and logic</p>  
 </details>
 
 <h3 align="left">Hey, contact me!</h3>
@@ -33,29 +40,25 @@
 
 <h3 align="left">Development Skills</h3>
 <h5 align="left">Languages</h5>
-<div>
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="Javascript" width="48" height="48"/>
-  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="Typescript" width="48" height="48"/>
-  <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="NodeJS" width="48" height="48"/>
-  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="48" height="48"/>
-  <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="48" height="48"/>
-  <img src="https://cdn.svgporn.com/logos/php.svg" alt="PHP" width="48" height="48"/>
-  <img src="https://cdn.svgporn.com/logos/c-sharp.svg" alt="C#" width="48" height="48"/>
-  
-</div>
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,nodejs,react,java,php)](https://skillicons.dev)
 
 <h5 align="left">Markup Language</h5>
-<div>
-  <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="48" height="48"/>
-  <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="48" height="48"/>
-</div>
+
+[![Markup Language](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
 <h5 align="left">Database</h5>
-<div>
-  <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="48" height="48"/>
-  <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreeSQL" width="48" height="48"/>
-  <img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="MongoDB" width="48" height="48"/>
-</div>
+
+[![Database](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
+
+<h5 align="left">Tools</h5>
+
+[![Tools](https://skillicons.dev/icons?i=docker,vscode,androidstudio,xcode)](https://skillicons.dev)
+
 <h5 align="left">Helpers</h5>
+
+[![Helpers](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
 <div>
   <img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="GitHub" width="48" height="48"/>
   <img src="https://cdn.svgporn.com/logos/git.svg" alt="Git" width="48" height="48"/>
@@ -64,4 +67,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafinhaa&show_icons=true&layout=compact&locale=en&theme=dark" alt="rafinhaa" />  
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafinhaa&show_icons=true&locale=en&layout=compact&theme=dark" alt="rafinhaa" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
